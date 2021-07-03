@@ -2,7 +2,7 @@
   background-color: rgb(0, 0, 0);
   /* background-image: url(../images/background-dark.jpg); */
   background-image: url(https://engineering.fb.com/wp-content/uploads/2015/06/1522635669452_11.jpg);
-
+  background-position: center center;
   color: rgb(153, 245, 245);
   display: block;
   background-size: cover;

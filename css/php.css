@@ -2,7 +2,7 @@
   background-color: black;
   /* background-image: url(../images/bg5.jpg); */
   background-image: url(https://media.bitdegree.org/storage/media/images/2018/10/10-tips-to-learn-PHP.jpg);
-
+  background-position: center center;
   background-size: cover;
   color: rgb(247, 250, 74);
 }

@@ -1,0 +1,35 @@
+.intro {
+  background-color: black;
+  background-image: url(https://cdn.staticcrate.com/stock-hd/effects/footagecrate-4k-looping-tech-background-clean-purple-1-prev-full.png);
+  /*background-image: url("https://images.unsplash.com/photo-1550745165-9bc0b252726f?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fHRlY2h8ZW58MHx8MHx8&ixlib=rb-1.2.1&w=1000&q=80");
+  /* background-image: url("https://zdblogs.zohocorp.com/creator/decode/sites/creator/decode/files/2020-12/VPL-04%20%281%29.jpg"); */
+  background-size: cover;
+  height: 100vh;
+}
+.intro h2 {
+  padding-top: 8%;
+  text-shadow: 5px 5px rgb(250, 213, 250);
+  color: rgb(71, 6, 63) !important;
+  font-weight: 900 !important;
+}
+.logo img {
+  height: 75px;
+  border-radius: 20px;
+}
+.logo {
+  position: absolute;
+  /* float: left; */
+  left: 2vh;
+  top: 0px;
+  /* border-radius: 19px; */
+  /* overflow: hidden; */
+  margin-top: 2vh;
+  /* box-shadow: 2px 2px black; */
+}
+
+@media only screen and (max-width: 1025px) {
+  .logo img {
+    height: 50px;
+    border-radius: 10px;
+  }
+}
